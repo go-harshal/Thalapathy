@@ -11,8 +11,7 @@ stages {
 // for display purposes
 
       // Get some code from a GitHub repository
-
-      giturl: 'https://github.com/go-harshal/Thalapathy.git', branch: "main", 
+        git branch: 'main', url: 'https://github.com/go-harshal/Thalapathy.git'
 
       // Get the Maven tool.
      
