@@ -12,7 +12,7 @@ stages {
 
       // Get some code from a GitHub repository
 
-      git 'https://github.com/go-harshal/Thalapathy.git'
+      giturl: 'https://github.com/go-harshal/Thalapathy.git', branch: "main", 
 
       // Get the Maven tool.
      
